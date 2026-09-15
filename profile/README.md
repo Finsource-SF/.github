@@ -1,5 +1,3 @@
-# .github
-
 # FinSource Salesforce Team
 
 Welcome to the **FinSource Salesforce Team**!
